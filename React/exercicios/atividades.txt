@@ -1,0 +1,19 @@
+Anotações
+
+- git clone https://enderecoDoRepositorio
+Clona o repositório
+
+- git status
+Verifica se existem alterações no repositório
+
+- git add
+Deixa os conteúdos que sofreram alterações na fila para serem comutados
+
+- git commit
+Cria um commit com as alterações correntes
+
+- git push
+Envia os arquivos para o repositório
+
+- git pull
+Traz os arquivo do repositório remoto para o repositório local
